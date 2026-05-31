@@ -198,7 +198,7 @@ const About = () => {
         className="relative mt-8 grid grid-cols-2 md:grid-cols-4 gap-4"
       >
         {[
-          { label: "PROJECTS", value: "3+" },
+          { label: "PROJECTS", value: "7+" },
           { label: "FOCUS", value: "Machine Learning" },
           { label: "STACK", value: "Python + React" },
           { label: "STATUS", value: "Active" },
