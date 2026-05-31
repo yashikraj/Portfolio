@@ -88,7 +88,6 @@ const About = () => {
       >
         <div>
           <p className="text-xs tracking-widest text-indigo-400 font-mono">
-            02 ARCHIVE_002
           </p>
           <h2 className="mt-3 text-5xl font-bold text-white">About &amp; Journey</h2>
         </div>
